@@ -1,0 +1,61 @@
+.container {
+    text-align: center;
+}
+
+input {
+    block-size: 30px;
+}
+
+img {
+    size: 30px;
+    padding: 10px;
+    margin: 20px;
+    width: 270px;
+}
+
+a {
+    color:black;
+}
+
+.more {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+    
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.search {
+    width: 550px;
+    font-size: 20px;
+}
+.submit {
+    position: relative;
+    margin-left: 0px;
+    border-color: blueviolet;
+    background-color: blue;
+    color: white;
+}
+
+.navigator {
+    position: absolute;
+    right: 0px;
+    font-size: 13px;
+}
+.content {
+    position: relative;
+    top: 100px;
+}
+.bottom {
+    color: wheat;
+    position: relative;
+    top: 470px;
+    font-size: 13px;
+    bottom: 0px;
+    width: 700px;
+    margin: 20px auto;
+}
